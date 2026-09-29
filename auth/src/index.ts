@@ -19,7 +19,7 @@ const start = async () => {
     }
 
     app.listen(4000, () => {
-        console.log("auth service, listening on port 4000")
+        console.log("auth service, listening on port 4000.")
     })   
 }
 
